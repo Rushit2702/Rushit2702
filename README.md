@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushit D. Chodvadiya 
-- 👀 I’m interested in Full Stack Web Development and AI/ML.
+- 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently persuing my bachelors idegree in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via mail.
