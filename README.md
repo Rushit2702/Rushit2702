@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushit D. Chodvadiya 
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently persuing my bachelors idegree in Information Technology
+- 🌱 I’m currently persuing my bachelors degree in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via mail.
 - 😄 Pronouns: he/him/his
